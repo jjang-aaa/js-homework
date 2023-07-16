@@ -45,7 +45,7 @@ const user = {
   pw: "spdlqj123!@",
 };
 
-function userCheak() {
+function userCheck() {
   event.preventDefault();
   if (userEmail.value === user.id && userPassword.value === user.pw) {
     window.location.href = "welcome.html";
@@ -54,4 +54,4 @@ function userCheak() {
   }
 }
 
-login.addEventListener("click", userCheak);
+login.addEventListener("click", userCheck);
