@@ -3,8 +3,7 @@
 ---
 
 ## 완성본
-
-![mission02](https://github.com/jjang-aaa/js-homework/assets/131199065/715db76f-2855-4b1f-88b9-f79615eec12a)
+![mission02-elemental](https://github.com/jjang-aaa/js-homework/assets/131199065/661d44e0-ae2f-4d23-8257-ea341acdbf89)
 
 ---
 
